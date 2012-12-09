@@ -1,0 +1,3 @@
+mainuser_profile:
+    pattern:  /profile/{username}
+    defaults: { _controller: mainuserBundle:Default:profile }

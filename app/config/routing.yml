@@ -1,3 +1,7 @@
+mainuser:
+    resource: "@mainuserBundle/Resources/config/routing.yml"
+    prefix:   /
+
 maindata:
     resource: "@maindataBundle/Resources/config/routing.yml"
     prefix:   /
